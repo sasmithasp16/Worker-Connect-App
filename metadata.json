@@ -1,0 +1,6 @@
+{
+  "name": "Worker Connect",
+  "description": "Local services marketplace connecting customers with verified plumbers, electricians, carpenters, painters, and technicians in Tamil Nadu with bilingual English and Tamil support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
